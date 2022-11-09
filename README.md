@@ -7,11 +7,11 @@
 
 
 ```javascript
-import SoftwareDeveloper from 'munafio';
-import { Languages, Frameworks } from 'munafio/skills';
+import SoftwareDeveloper from 'johnnocos';
+import { Languages, Frameworks } from 'johnnocos/skills';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Munaf Aqeel Mahdi';
+  name     = 'John Robertson Nocos';
   title    = 'Senior Software Developer';
   location = 'Babil, IQ';
 }
