@@ -6,7 +6,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-<pre>
+```javascript
 import SoftwareDeveloper from 'munafio';
 import { Languages, Frameworks } from 'munafio/skills';
 
@@ -22,4 +22,4 @@ class Skills extends SoftwareDeveloper {
   frameworks = ['Vue', 'React', 'Next.js', 'Laravel', 'Nest.js', ...Frameworks];
 }
 
-</pre>
+</pre>```
