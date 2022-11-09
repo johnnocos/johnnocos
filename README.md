@@ -1,14 +1,1 @@
-import SoftwareDeveloper from 'johnnocos';
-import { Languages, Frameworks } from 'johnnocos/skills';
-
-class Bio extends SoftwareDeveloper {
-  name     = 'Munaf Aqeel Mahdi';
-  title    = 'Senior Software Developer';
-  location = 'Babil, IQ';
-}
-
-class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'TypeScript', 'PHP', ...Languages];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['Vue', 'React', 'Next.js', 'Laravel', 'Nest.js', ...Frameworks];
-}
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
