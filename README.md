@@ -13,7 +13,7 @@ import { Languages, Frameworks } from 'johnnocos/skills';
 class Bio extends SoftwareDeveloper {
   name     = 'John Robertson Nocos';
   title    = 'Senior Software Developer';
-  location = 'Babil, IQ';
+  location = 'Cebu, PH';
 }
 
 class Skills extends SoftwareDeveloper {
