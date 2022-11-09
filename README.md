@@ -22,4 +22,4 @@ class Skills extends SoftwareDeveloper {
   frameworks = ['Vue', 'React', 'Next.js', 'Laravel', 'Nest.js', ...Frameworks];
 }
 
-</pre>```
+```
